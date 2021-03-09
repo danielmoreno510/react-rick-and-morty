@@ -1,0 +1,2 @@
+export const FETCH_CHARACTER = 'FETCH_CHARACTER'
+export const PUT_CHARACTER = 'PUT_CHARACTER'
